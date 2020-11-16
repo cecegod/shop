@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/domin/pom.xml" />
+        <option value="$PROJECT_DIR$/usermodule/pom.xml" />
+        <option value="$PROJECT_DIR$/productmodule/pom.xml" />
+        <option value="$PROJECT_DIR$/dao/pom.xml" />
+        <option value="$PROJECT_DIR$/ordermodule/pom.xml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/storymodule/pom.xml" />
+        <option value="$PROJECT_DIR$/emp/pom.xml" />
+        <option value="$PROJECT_DIR$/empmodule/pom.xml" />
+        <option value="$PROJECT_DIR$/redis/pom.xml" />
+        <option value="$PROJECT_DIR$/a_01_rediscache/pom.xml" />
+      </list>
+    </option>
+  </component>
+</project>

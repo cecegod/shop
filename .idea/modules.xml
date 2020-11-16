@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/a_01_rediscache/a_01_rediscache.iml" filepath="$PROJECT_DIR$/a_01_rediscache/a_01_rediscache.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dao/dao.iml" filepath="$PROJECT_DIR$/dao/dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/domin/domin.iml" filepath="$PROJECT_DIR$/domin/domin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/empmodule/empmodule.iml" filepath="$PROJECT_DIR$/empmodule/empmodule.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ordermodule/ordermodule.iml" filepath="$PROJECT_DIR$/ordermodule/ordermodule.iml" />
+      <module fileurl="file://$PROJECT_DIR$/productmodule/productmodule.iml" filepath="$PROJECT_DIR$/productmodule/productmodule.iml" />
+      <module fileurl="file://$PROJECT_DIR$/redis/redis.iml" filepath="$PROJECT_DIR$/redis/redis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/shop.iml" filepath="$PROJECT_DIR$/.idea/shop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/storymodule/storymodule.iml" filepath="$PROJECT_DIR$/storymodule/storymodule.iml" />
+      <module fileurl="file://$PROJECT_DIR$/usermodule/usermodule.iml" filepath="$PROJECT_DIR$/usermodule/usermodule.iml" />
+    </modules>
+  </component>
+</project>

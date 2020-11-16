@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="redis" />
+        <module name="domin" />
+        <module name="ordermodule" />
+        <module name="a_01_rediscache" />
+        <module name="usermodule" />
+        <module name="empmodule" />
+        <module name="dao" />
+        <module name="productmodule" />
+        <module name="storymodule" />
+        <module name="storymodule1" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="a_01_rediscache" target="1.8" />
+      <module name="categorymodule" target="1.8" />
+      <module name="dao" target="1.8" />
+      <module name="domin" target="1.5" />
+      <module name="emp" target="1.5" />
+      <module name="empmodule" target="1.8" />
+      <module name="ordermodule" target="1.8" />
+      <module name="productmodule" target="1.8" />
+      <module name="redis" target="1.8" />
+      <module name="shop" target="1.5" />
+      <module name="storymodule" target="1.8" />
+      <module name="storymodule1" target="1.8" />
+      <module name="usermodule" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="a_01_rediscache" options="-parameters" />
+      <module name="categorymodule" options="-parameters" />
+      <module name="dao" options="-parameters" />
+      <module name="domin" options="" />
+      <module name="empmodule" options="-parameters" />
+      <module name="ordermodule" options="-parameters" />
+      <module name="productmodule" options="-parameters" />
+      <module name="redis" options="-parameters" />
+      <module name="shop" options="-parameters" />
+      <module name="storymodule" options="-parameters" />
+      <module name="storymodule1" options="-parameters" />
+      <module name="usermodule" options="-parameters" />
+    </option>
+  </component>
+</project>
